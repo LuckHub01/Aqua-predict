@@ -340,4 +340,4 @@ AQUA-PREDICT répond exhaustivement aux objectifs du hackathon:
 **Contacts:**
 - Email: inaparehub@gmail.com
 - Tél: +226 72337919
-- GitHub: [lien repository si public]
+- GitHub: https://github.com/LuckHub01/Aqua-predict
