@@ -157,6 +157,15 @@ streamlit run src/7_dashboard.py
 ```
 
 ---
+![Dashboard](image-1.png)
+![Dashboard](image-2.png)
+![Dashboard](image-3.png)
+![Prévisions](image-4.png)
+![Recommendations](image.png)
+![Optimisation](image-6.png)
+![Priorisation](image-7.png)
+![Anomalies](image-8.png)
+
 
 ## 🗺️ Roadmap
 
